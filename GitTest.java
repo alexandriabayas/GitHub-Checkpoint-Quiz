@@ -12,4 +12,8 @@ public class GitTest{
 		return s;
 	}
 
+	public void setString(String t){
+		s = t;
+	}
+
 }
