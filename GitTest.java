@@ -6,4 +6,8 @@ public class GitTest{
 		s = "This is my GutHub test";
 	}
 
+	public String printS(){
+		return s;
+	}
+
 }
